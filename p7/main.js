@@ -10,7 +10,6 @@ function Telefono(numero, marca, color) {
 	}
 }
 
-
 var iPhone = new Telefono(73798921, "iPhone", "Silver");
 var SIII = new Telefono(83291020, "SIII", "Yellow");
 var HTC = new Telefono(92022020, "HTC", "Gold");
